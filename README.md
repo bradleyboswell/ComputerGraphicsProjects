@@ -2,10 +2,20 @@
 A collection of projects exploring Java2D, Java3D, and OpenGL
 
 ## Project 1
+  A simple GUI application using java AWT and SWING to move a graphical object around the screen and
+  change its color. Control the shapes location via mouse click, or arrow keys. Change its 
+  color via the radio buttons on the right hand side of the window. 
+
 
 ## Project 2
+  An exploration of constructive geometry (via yin-yang graphic) and 
+  the capabilities of the Path2D object in java (via spirograph graphic)
+
 
 ## Project 3
+  An interactive GUI for using Java's AffineTransform in order to manipulate 
+  the transformations of a graphic object.
+
 
 ## Project 4
   A Java program with a text field, a button, and a text area. 
